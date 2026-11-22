@@ -33,7 +33,7 @@ Me apasiona el desarrollo de software, la resolución de problemas y el aprendiz
 ### 🌐 Desarrollo Web
 
 <p align="left">
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML">
+  <a>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5"/>
   </a>
   
