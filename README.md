@@ -9,23 +9,23 @@ Me apasiona el desarrollo de software, la resolución de problemas y el aprendiz
 ### 💻 Lenguajes
 
 <p align="left">
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+  <a >
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript"/>
   </a>
   
   
-  <a href="https://www.python.org/">
+  <a >
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python"/>
   </a>
   
 
-  <a href="https://en.cppreference.com/w/">
+  <a >
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++"/>
   </a>
   
   
 
-  <a href="https://en.cppreference.com/w/c">
+  <a>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C"/>
   </a>
 </p>
@@ -38,18 +38,18 @@ Me apasiona el desarrollo de software, la resolución de problemas y el aprendiz
   </a>
   
 
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS">
+  <a>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3"/>
   </a>
  
 
-  <a href="https://sass-lang.com/">
+  <a>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass"/>
   </a>
 
   
 
-  <a href="https://nodejs.org/">
+  <a>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS"/>
   </a>
 </p>
@@ -57,19 +57,19 @@ Me apasiona el desarrollo de software, la resolución de problemas y el aprendiz
 ### 🛠️ Herramientas
 
 <p align="left">
-  <a href="https://git-scm.com/">
+  <a>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git"/>
   </a>
 
   
 
-  <a href="https://code.visualstudio.com/">
+  <a>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code"/>
   </a>
 
   
 
-  <a href="https://www.gnu.org/software/bash/">
+  <a>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons
 
 # Redes sociales <p align="left"> <a href="https://www.github.com/l" target="_blank" rel="noreferrer"> <foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </imagen> </a> </p>
