@@ -1,13 +1,8 @@
-<h1 align="center">
-  🌌 Luis Antonio 🌌
-</h1>
 
-<h3 align="center">
-  💜💙 Desarrollador en formación | JavaScript | Python | Linux 💙💜
-</h3>
+<h1 align="center">🌌 Bienvenido a mi GitHub</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F0ZTBsZ2t2YW14NDJkbGVmOXllOHc5NThsaW8yc3I4eWt5ZjkybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZjlnRfCQKvg0YjEr62/giphy.gif" width="180" />
+Desarrollador en formación apasionado por JavaScript, Python y Linux.
 </p>
 
 <p align="center">
