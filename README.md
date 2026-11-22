@@ -12,18 +12,18 @@ Me apasiona el desarrollo de software, la resolución de problemas y el aprendiz
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
   
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
 
   <a href="https://en.cppreference.com/w/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++"/>
   </a>
   
-  &nbsp;&nbsp;&nbsp;
+  
 
   <a href="https://en.cppreference.com/w/c">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C"/>
@@ -36,18 +36,18 @@ Me apasiona el desarrollo de software, la resolución de problemas y el aprendiz
   <a href="https://developer.mozilla.org/es/docs/Web/HTML">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
 
   <a href="https://developer.mozilla.org/es/docs/Web/CSS">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+ 
 
   <a href="https://sass-lang.com/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;
+  
 
   <a href="https://nodejs.org/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS"/>
@@ -61,13 +61,13 @@ Me apasiona el desarrollo de software, la resolución de problemas y el aprendiz
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;
+  
 
   <a href="https://code.visualstudio.com/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;
+  
 
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons
