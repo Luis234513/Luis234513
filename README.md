@@ -76,6 +76,12 @@ Me apasiona el desarrollo de software, la resolución de problemas y el aprendiz
 
 ## Insignias
 
-<b>My GitHub Stats</b>
+## 📊 GitHub Stats
 
-<a href="http://www.github.com/luis234513"><img src="https://github-readme-stats.vercel.app/api?username=luis234513&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="luis234513's GitHub stats" /></a>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=luis234513&show_icons=true&count_private=true&title_color=00E5FF&text_color=BFEFFF&icon_color=00BFFF&bg_color=0D1117&border_color=00BFFF&hide_border=false"
+    height="180"
+  />
+
+ 
