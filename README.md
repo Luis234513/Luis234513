@@ -1,6 +1,34 @@
-# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F0ZTBsZ2t2YW14NDJkbGVmOXllOHc5NThsaW8yc3I4eWt5ZjkybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZjlnRfCQKvg0YjEr62/giphy.gif" width="200"> Bienvenido al Github de Luis Antonio
+<h1 align="center">
+  🌌 Luis Antonio 🌌
+</h1>
 
-![baner](github-header-banner.png)
+<h3 align="center">
+  💜💙 Desarrollador en formación | JavaScript | Python | Linux 💙💜
+</h3>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F0ZTBsZ2t2YW14NDJkbGVmOXllOHc5NThsaW8yc3I4eWt5ZjkybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZjlnRfCQKvg0YjEr62/giphy.gif" width="180" />
+</p>
+
+<p align="center">
+  <b>🚀 Bienvenido a mi universo de código 🚀</b>
+</p>
+
+<p align="center">
+  Explorando JavaScript, Python y tecnologías open source mientras construyo proyectos y aprendo cada día.
+</p>
+
+
+
+<p align="center">
+  💜 ⚡ 🩵 ⚡ 💙 ⚡ 🩵 ⚡ 💜
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Luis+Antonio;JavaScript+Developer;Python+Enthusiast;Linux+User;Open+Source+Explorer" />
+</p>
+
 
 ## 🧠 Actualmente estoy aprendiendo JavaScript
 
